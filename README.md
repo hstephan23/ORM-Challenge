@@ -25,7 +25,7 @@
   ```
   npm install express@4.17.1
   ```
-    ```
+  ```
   npm install sequelize@5.21.7
   ```
   Or simply use
@@ -41,8 +41,6 @@
 
   DB_NAME= ''
 
-  DB_HOST= ''
-
   The link to the walkthrough of the program is [here](https://drive.google.com/file/d/1MadNqy4irtVRcSvRDaWpQ1rhzhT9O-8c/view?usp=share_link).
   
   MIT
@@ -50,7 +48,7 @@
   https://opensource.org/license/mit/
 
   ## Contributing
-  Javascript, Node.JS, mySql, dotenv, mysql2, and inquirer.
+  Javascript, Node.JS, express, dotenv, mysql2, and sequelize.
 
   ## Test
   None.
